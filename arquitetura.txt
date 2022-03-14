@@ -1,0 +1,4 @@
+server
+    service = tudas as regras de negócio ou processamento
+    controller = intermediar a camada de aprensetação e a camada de negocio
+    routes = camada de apresentação
